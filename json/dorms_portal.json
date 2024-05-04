@@ -1,0 +1,112 @@
+{
+    "portals": [
+        {
+            "isLocked": true,
+            "worldId": "",
+            "customPortalName": "",
+            "doorText": ""
+        },
+        {
+            "isLocked": true,
+            "worldId": "",
+            "customPortalName": "",
+            "doorText": ""
+        },
+        {
+            "isLocked": true,
+            "worldId": "",
+            "customPortalName": "",
+            "doorText": ""
+        },
+        {
+            "isLocked": true,
+            "worldId": "",
+            "customPortalName": "",
+            "doorText": ""
+        },
+        {
+            "isLocked": true,
+            "worldId": "",
+            "customPortalName": "",
+            "doorText": ""
+        },
+        {
+            "isLocked": true,
+            "worldId": "",
+            "customPortalName": "",
+            "doorText": ""
+        },
+        {
+            "isLocked": true,
+            "worldId": "",
+            "customPortalName": "",
+            "doorText": ""
+        },
+        {
+            "isLocked": true,
+            "worldId": "",
+            "customPortalName": "",
+            "doorText": ""
+        },
+        {
+            "isLocked": true,
+            "worldId": "",
+            "customPortalName": "",
+            "doorText": ""
+        },
+        {
+            "isLocked": true,
+            "worldId": "",
+            "customPortalName": "",
+            "doorText": ""
+        },
+        {
+            "isLocked": true,
+            "worldId": "",
+            "customPortalName": "",
+            "doorText": ""
+        },
+        {
+            "isLocked": true,
+            "worldId": "",
+            "customPortalName": "",
+            "doorText": ""
+        },
+        {
+            "isLocked": true,
+            "worldId": "",
+            "customPortalName": "",
+            "doorText": ""
+        },
+        {
+            "isLocked": true,
+            "worldId": "",
+            "customPortalName": "",
+            "doorText": ""
+        },
+        {
+            "isLocked": true,
+            "worldId": "",
+            "customPortalName": "",
+            "doorText": ""
+        },
+        {
+            "isLocked": true,
+            "worldId": "",
+            "customPortalName": "",
+            "doorText": ""
+        },
+        {
+            "isLocked": false,
+            "worldId": "wrld_e57ea7f9-285e-433e-b8b9-0e946bf55b30",
+            "customPortalName": "",
+            "doorText": "Akimbo"
+        },
+        {
+            "isLocked": false,
+            "worldId": "wrld_0b3abbf4-4c31-4878-9058-5c5e5e288dc6",
+            "customPortalName": "",
+            "doorText": "Dori Fey"
+        }
+    ]
+}
