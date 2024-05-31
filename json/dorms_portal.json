@@ -1,76 +1,76 @@
 {
     "portals": [
         {
-            "isLocked": true,
-            "worldId": "",
+            "isLocked": false,
+            "worldId": "wrld_a48466af-def5-4922-b7a0-d30277078299",
             "customPortalName": "",
-            "doorText": ""
+            "doorText": "Asheris"
         },
         {
-            "isLocked": true,
-            "worldId": "",
+            "isLocked": false,
+            "worldId": "wrld_3ba1ff72-34e1-4b2a-8b68-08cdd01158c8",
             "customPortalName": "",
-            "doorText": ""
+            "doorText": "Emmα"
         },
         {
-            "isLocked": true,
-            "worldId": "",
+            "isLocked": false,
+            "worldId": "wrld_797660d9-11f7-461f-99d4-ba4dc0b30ee8",
             "customPortalName": "",
-            "doorText": ""
+            "doorText": "NotSoJellvi"
         },
         {
-            "isLocked": true,
-            "worldId": "",
+            "isLocked": false,
+            "worldId": "wrld_801122d9-c2d2-4742-b642-027583bb3a6d",
             "customPortalName": "",
-            "doorText": ""
+            "doorText": "EmberTheKitty"
         },
         {
-            "isLocked": true,
-            "worldId": "",
+            "isLocked": false,
+            "worldId": "wrld_2dbc723c-ba93-4c55-8450-56465755f230",
             "customPortalName": "",
-            "doorText": ""
+            "doorText": "Lord-Giganticus"
         },
         {
-            "isLocked": true,
-            "worldId": "",
+            "isLocked": false,
+            "worldId": "wrld_d19dc71f-55b4-4773-b892-67b5efeb0d04",
             "customPortalName": "",
-            "doorText": ""
+            "doorText": "NMZS"
         },
         {
-            "isLocked": true,
-            "worldId": "",
+            "isLocked": false,
+            "worldId": "wrld_e6116231-2f29-490a-84f5-e706ee577d2e",
             "customPortalName": "",
-            "doorText": ""
+            "doorText": "PurposeUnknown"
         },
         {
-            "isLocked": true,
-            "worldId": "",
+            "isLocked": false,
+            "worldId": "wrld_53e90b23-bc10-4261-ac0f-82f5479023dd",
             "customPortalName": "",
-            "doorText": ""
+            "doorText": "Miseria Cantare"
         },
         {
-            "isLocked": true,
-            "worldId": "",
+            "isLocked": false,
+            "worldId": "wrld_f41635e0-11b7-4a48-8852-9d30756af4fb",
             "customPortalName": "",
-            "doorText": ""
+            "doorText": "MariTheVillain"
         },
         {
-            "isLocked": true,
-            "worldId": "",
+            "isLocked": false,
+            "worldId": "wrld_e90c61c0-e2c1-4802-9796-9179a9a350e2",
             "customPortalName": "",
-            "doorText": ""
+            "doorText": "Shenmarukai"
         },
         {
-            "isLocked": true,
-            "worldId": "",
+            "isLocked": false,
+            "worldId": "wrld_db657097-4afe-4b9c-80dc-1fe8497f919a",
             "customPortalName": "",
-            "doorText": ""
+            "doorText": "SeishinFox"
         },
         {
-            "isLocked": true,
-            "worldId": "",
+            "isLocked": false,
+            "worldId": "wrld_51578375-ed80-47a7-a518-cbce3110abce",
             "customPortalName": "",
-            "doorText": ""
+            "doorText": "Purple_Emma"
         },
         {
             "isLocked": true,
