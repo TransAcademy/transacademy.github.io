@@ -8,6 +8,5 @@ Do not share Illegally hosted or obtained content.
 Triggering topics should be kept outside of this community.
 Do not ask for donations.
 Blocking Trans Academy staff will lead to an eventual ban.
-Recording of our Instances for content creation/streaming is not permitted without explicit permission .
 Follow the VRChat ToS.
-Contact volunteers through academy support tickets, or by talking to them directly in the instance.
+Recording of our Instances for content creation/streaming is not permitted without explicit permission .
