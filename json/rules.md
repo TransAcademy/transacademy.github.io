@@ -10,3 +10,4 @@
 - Blocking Trans Academy volunteers will lead to an eventual ban.
 - Follow the VRChat ToS.
 - Recording of our Instances for content creation/streaming is not permitted without explicit permission.
+- Trans Academy is not a dating space. Our community spaces, are not to be utilized as a means to find romantic partners, make flirtatious or obscene comments, or act as an avenue to seek out intimacy.
