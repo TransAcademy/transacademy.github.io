@@ -97,10 +97,10 @@
             "doorText": ""
         },
         {
-            "isLocked": false,
-            "worldId": "wrld_e57ea7f9-285e-433e-b8b9-0e946bf55b30",
+            "isLocked": true,
+            "worldId": "",
             "customPortalName": "",
-            "doorText": "Akimbo"
+            "doorText": ""
         },
         {
             "isLocked": false,
